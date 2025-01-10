@@ -4,7 +4,9 @@ Enrollment No:- 2302031000107
 
 Roll.no:-046
 
-class:- 4IT-B                                Division:-B2
+class:- 4IT-B                               
+
+Division:-B2
 
 Course:- B.tech(I.T.)
 
